@@ -1,0 +1,41 @@
+{
+  "name": "Midnight Opulence",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#141824",
+    "editor.foreground": "#E6E6E6",
+    "editor.lineHighlightBackground": "#1A1F2A",
+    "editorCursor.foreground": "#FFD580",
+    "editor.selectionBackground": "#264F78",
+    "editor.selectionHighlightBackground": "#264F78AA",
+    "editorIndentGuide.background": "#2C2F38",
+    "editorIndentGuide.activeBackground": "#3C3F48"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#5C6370", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage.type"],
+      "settings": { "foreground": "#00C9A7" }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": { "foreground": "#FFD580" }
+    },
+    {
+      "scope": ["string", "constant.other.symbol"],
+      "settings": { "foreground": "#9CDCFE" }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": { "foreground": "#FFB86B" }
+    },
+    {
+      "scope": ["variable", "identifier"],
+      "settings": { "foreground": "#E6E6E6" }
+    }
+  ]
+}
+
