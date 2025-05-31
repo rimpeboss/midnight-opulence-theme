@@ -16,7 +16,7 @@
       {
         "label": "Midnight Opulence",
         "uiTheme": "vs-dark",
-        "path": "./themes/midnight-opulence-color-theme.json"
+        "path": "./themes/midnight-opulence-theme.json"
       }
     ]
   }
