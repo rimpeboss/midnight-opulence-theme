@@ -2,7 +2,7 @@
 
 A luxurious dark theme for Visual Studio Code that blends **deep indigos** and **charcoal tones** with elegant highlights in **vibrant teal** and **soft gold**. Designed to be both **soothing** and **visually striking**, Midnight Opulence offers a premium aesthetic that enhances focus and reduces eye strain.
 
-![Screenshot of Midnight Opulence Theme](https://your-screenshot-url.com/screenshot.png)
+![Screenshot of Midnight Opulence Theme](image.png)
 
 ---
 
